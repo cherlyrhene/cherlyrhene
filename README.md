@@ -1,3 +1,23 @@
+<!-- Centered banner with tighter spacing -->
+<p align="center" style="margin-bottom: -10px;">
+  <img src="banner.png" alt="Cherlyrhene Dechdechachan | Data Science Portfolio" width="100%">
+</p>
+
+<h2 align="center">
+  👋 Hi, I'm <b>Cherlyrhene Dechdechachan</b>
+</h2>
+
+<p align="center">
+  Aspiring <b>Data Scientist</b> | MScAC (U of T) Candidate  
+  <br>Python · SQL · Machine Learning · Data Visualization  
+  <br>📫 <a href="mailto:cherlyrhened@gmail.com">cherlyrhened@gmail.com</a> |
+  <a href="https://github.com/cherlyrhene/hello-world-python">My First Repo</a>
+</p>
+
+---
+
+### 🧠 What I'm Working On
+
 <p align="center">
   <img src="banner.png" alt="Cherlyrhene Dechdechachan | Data Science Portfolio" width="100%">
 </p>
